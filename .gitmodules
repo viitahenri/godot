@@ -1,0 +1,3 @@
+[submodule "modules/luascript"]
+	path = modules/luascript
+	url = git@github.com:perbone/luascript.git
